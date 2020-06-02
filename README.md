@@ -1,3 +1,6 @@
+nice tutorial: https://medium.com/javascript-in-plain-english/build-a-simple-todo-app-with-react-561579b39ad1
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
